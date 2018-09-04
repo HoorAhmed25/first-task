@@ -1,0 +1,37 @@
+#options{
+position: fixed;
+top: 100px;
+    left: 0px;
+    z-index: 568536;
+}
+ #options .color-options
+{
+ background-color: #ccc;
+    border: solid 3px teal;
+    padding: 10px;
+    float: left;
+
+
+}
+
+#options i
+{
+background-color: teal;
+    padding: 10px;
+    color: #fff;
+    float: left;
+    cursor: pointer;
+
+
+}
+
+#options ul li{
+
+width: 25px;
+    height: 25px;
+    background-color: orange;
+    display: inline-block;
+    cursor: pointer;
+
+
+}
